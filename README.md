@@ -12,4 +12,4 @@ Changes from the original 2011 skin include, but nay not be limited to:
 ## A quick notice
 This skin is just a result of me hacking together some assets in an image editor. I'm not an artist or graphics designer.
 
-I'm not the best at these things, but if anyone is willing to step forward and contribute art assets or anything I'd be eternally grateful.
+I'm not the best at these things, and if anyone is willing to step forward and contribute art assets or anything I'd be eternally grateful.

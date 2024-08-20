@@ -8,3 +8,8 @@ Changes from the original 2011 skin include, but nay not be limited to:
 - Smaller hit 100s, 50s, and misses in osu!standard
 - No nightcore background beat
 - No combo bursts
+
+## A quick notice
+This skin is just a result of me hacking together some assets in an image editor. I'm not an artist or graphics designer.
+
+I'm not the best at these things, but if anyone is willing to step forward and contribute art assets or anything I'd be eternally grateful.

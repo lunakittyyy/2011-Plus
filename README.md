@@ -7,6 +7,8 @@ Changes from the original 2011 skin include, but may not be limited to:
     - Better follow points
     - No slider ends
     - Smaller hit 100s, 50s, and misses
+    - Smaller star2 (smaller stars during kiai time)
+    - Easier to see cursor
 - All modes
     - No nightcore background beat
     - No combo bursts
